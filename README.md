@@ -1,0 +1,2 @@
+# Seawater-Desalination-System-Evaporation-Module-Raspberry-Pi-Pico-RP2040-
+This project uses an LM35 temperature sensor with a Raspberry Pi Pico (MicroPython) to control a relay for heating water.   Originally, the system was meant to include a **pressure-based evaporation method**, allowing water to evaporate at **80 °C by controlling both temperature and pressure.Due to limitations, the current version only control Temp
