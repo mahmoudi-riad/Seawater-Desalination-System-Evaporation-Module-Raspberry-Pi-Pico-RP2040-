@@ -20,10 +20,7 @@ Due to limitations, the current version only controls temperature.
 5. This cycle repeats to keep the temperature stable.
 
 ## 💻 Usage
-1. Upload `main.py` to your board.
+1. Upload `raspberryPico_water_sea.py` to your board.
 2. Connect the hardware as described in the code.
 3. Adjust the temperature threshold in the code if necessary.
 4. Start the system and monitor the process.
-
-## 📜 License
-MIT License
